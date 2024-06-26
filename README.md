@@ -8,7 +8,6 @@
     - [Music Toggle Button](#music-toggle-button)
     - [Generate City Button](#generate-city-button)
 - [Demo](#demo)
-- [Setup](#setup)
 - [Usage](#usage)
 
 ## Features
